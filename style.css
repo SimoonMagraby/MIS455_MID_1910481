@@ -1,0 +1,13 @@
+
+body,
+h1{
+    font-family:"Lato", sans-serif;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
